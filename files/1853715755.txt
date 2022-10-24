@@ -1,0 +1,5 @@
+Document your code
+
+Every project on GitHub comes with a version-controlled wiki to give your documentation
+the high level of care it deserves. It's easy to create well-maintained, Markdown or rich
+text documentation alongside your code.
